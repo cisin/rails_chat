@@ -152,4 +152,4 @@ The `publish_to` method will send a post request to the Faye server (using `Net:
 
 ## Development & Feedback
 
-Questions or comments? Please use the [issue tracker](https://github.com/ciserfan/rails_chat/issues). Tests can be run with `bundle` and `rake` commands.
+Questions or comments? Please use the [issue tracker](https://github.com/cisror/rails_chat/issues). Tests can be run with `bundle` and `rake` commands.
